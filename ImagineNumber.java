@@ -119,6 +119,6 @@ public static void main(String[] args) {
     print(array);
     array = performEdits(array);
     System.out.println("The number you IMAGINED is : ");
-    System.out.println(array[10]);
+    System.out.print("              "+array[10]);
 }
 }
